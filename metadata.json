@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Production Plan Dashboard",
+  "description": "An interactive web application to upload production data from an Excel file, visualize key metrics through charts, and display a prioritized production schedule with color-coded urgency levels.",
+  "requestFramePermissions": []
+}
